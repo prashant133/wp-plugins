@@ -1,15 +1,4 @@
-#!/bin/python3
 
-# Exploit Title: WordPress Plugin wpDiscuz 7.0.4 - Unauthenticated Remote Code Execution
-# Google Dork: N/A
-# Date: 2021/06/08
-# Exploit Author: Fellipe Oliveira
-# Vendor Homepage: https://gvectors.com/
-# Software Link: https://downloads.wordpress.org/plugin/wpdiscuz.7.0.4.zip
-# Version: wpDiscuz 7.0.4
-# Tested on: Debian9, Windows 7, Windows 10 (Wordpress 5.7.2)
-# CVE : CVE-2020-24186
-# Thanks for the great contribution to the code: Z3roC00l (https://twitter.com/zeroc00I)
 
 import requests
 import optparse
